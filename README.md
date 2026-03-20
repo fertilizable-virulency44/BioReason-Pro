@@ -17,6 +17,10 @@ Protein function annotation is fundamental to understanding biological mechanism
 
 <br>
 
+<img width="2126" height="2385" alt="br2_fig1" src="https://github.com/user-attachments/assets/96bf808e-fae8-4e32-919b-5a75382bf2ab" />
+
+<br>
+
 ## Key Contributions
 
 • **First multimodal reasoning LLM for protein function**: BioReason-Pro deeply integrates ESM3 protein embeddings, a GO graph encoder, and biological context within a unified LLM to generate structured reasoning traces and functional annotations.
