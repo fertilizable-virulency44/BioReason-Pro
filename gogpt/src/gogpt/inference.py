@@ -70,14 +70,14 @@ class GOGPTPredictor:
         print(results)  # {"MF": ["GO:0003674", ...], "BP": [...], "CC": [...]}
 
     Example (HuggingFace Hub):
-        predictor = GOGPTPredictor.from_pretrained("armansa1/gogpt-dev")
+        predictor = GOGPTPredictor.from_pretrained("wanglab/gogpt")
         results = predictor.predict(sequence="MKTAYIAK...", organism="Homo sapiens")
     """
 
     @classmethod
     def from_pretrained(
         cls,
-        model_id: str = "armansa1/gogpt-dev",
+        model_id: str = "wanglab/gogpt",
         revision: str = "main",
         cache_dir: Optional[str] = None,
         device: Optional[str] = None,
@@ -89,7 +89,7 @@ class GOGPTPredictor:
         Downloads model weights and artifacts, then initializes predictor.
 
         Args:
-            model_id: HuggingFace repo ID (e.g., "armansa1/gogpt-dev")
+            model_id: HuggingFace repo ID (e.g., "wanglab/gogpt")
             revision: Git revision for versioning (e.g., "main", "v1.0")
             cache_dir: Local directory to cache downloaded files
             device: Device to use ('cuda', 'cpu', or None for auto-detect)
@@ -99,7 +99,7 @@ class GOGPTPredictor:
             Initialized GOGPTPredictor ready for inference
 
         Example:
-            predictor = GOGPTPredictor.from_pretrained("armansa1/gogpt-dev")
+            predictor = GOGPTPredictor.from_pretrained("wanglab/gogpt")
             predictions = predictor.predict(sequence="MKTAYIAK...", organism="Homo sapiens")
         """
         from huggingface_hub import hf_hub_download

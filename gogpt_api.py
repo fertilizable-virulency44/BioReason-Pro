@@ -31,7 +31,7 @@ from bioreason2.dataset.cafa5.processor import _GO_INFO
 
 
 def load_predictor(
-    model_name: str = "armansa1/gogpt-test",
+    model_name: str = "wanglab/gogpt",
     cache_dir: Optional[str] = None
 ) -> GOGPTPredictor:
     """
@@ -133,8 +133,8 @@ def main():
     )
     parser.add_argument(
         "--model",
-        default="armansa1/gogpt-test",
-        help="HuggingFace model name (default: armansa1/gogpt-test)"
+        default="wanglab/gogpt",
+        help="HuggingFace model name (default: wanglab/gogpt)"
     )
     parser.add_argument(
         "--cache-dir",
