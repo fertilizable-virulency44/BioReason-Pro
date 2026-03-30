@@ -27,7 +27,9 @@ Try BioReason-Pro directly through our web-based inference server:
 
 🔗 **[bioreason.net](https://bioreason.net)**
 
-Precomputed predictions for 240,000+ proteins (including the Human Protein Atlas) are available at [bioreason.net](https://bioreason.net). (Toward end of main page)
+Precomputed predictions for 240,000+ proteins (including the Human Protein Atlas) are available at [bioreason.net](https://bioreason.net).
+
+The full catalogue is also available for download as a HuggingFace dataset: [wanglab/protein_catalogue](https://huggingface.co/datasets/wanglab/protein_catalogue).
 
 <br>
 
