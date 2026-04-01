@@ -27,7 +27,7 @@ Try BioReason-Pro directly through our web-based inference server:
 
 🔗 **[bioreason.net](https://bioreason.net)**
 
-Precomputed predictions for 240,000+ proteins (including the Human Protein Atlas) are available at [bioreason.net](https://bioreason.net).
+Precomputed predictions for 223,000+ proteins (including the Human Protein Atlas) are available at [bioreason.net](https://bioreason.net).
 
 The full catalogue is also available for download as a HuggingFace dataset: [wanglab/protein_catalogue](https://huggingface.co/datasets/wanglab/protein_catalogue).
 
@@ -165,7 +165,7 @@ Organism names must match the format in `organism_list.txt` exactly. Unsupported
 
 • **Structural reasoning beyond domain transfer**: The model performs contextual architectural reasoning that overrides misleading superfamily-level annotations, as demonstrated for CFAP61's non-enzymatic scaffolding role.
 
-• **Broad-scale release**: All model weights, training code, curated datasets, a web interface, and precomputed predictions for 240,000+ proteins including the Human Protein Atlas are publicly available.
+• **Broad-scale release**: All model weights, training code, curated datasets, a web interface, and precomputed predictions for 223,000+ proteins including the Human Protein Atlas are publicly available.
 
 
 <br>
